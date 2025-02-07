@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b9525gt0fpqvp35wq16qvqt76r3gceoll1p2js0vfpe1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
-
 <p align="left">Muito prazer, e chamo Luiz Vinicius!</p>
 
 ###
