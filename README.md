@@ -7,7 +7,6 @@
 </div>
 
 ###
-###
 
 <p align="left">Muito prazer, e chamo Luiz Vinicius!</p>
 
