@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Muito prazer, e chamo Luiz Vinicius!</p>
+<p align="left">Muito prazer, me chamo Luiz Vinicius!</p>
 
 ###
 
