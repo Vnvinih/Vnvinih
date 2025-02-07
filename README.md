@@ -12,6 +12,8 @@
 
 <p align="left">📚 Atualmente estou estudando e focando no desenvolvimento web e back end <br>🎯 Estou entusiasmado com as possibilidades de criar soluções inovadoras e impactantes na área da tecnologia. <br>🎲 Busco oportunidades que me permitam aplicar e aprimorar minhas habilidades em programação, contribuindo para projetos desafiadores. </p>
 
+###
+
 <h2 align="left">📧 Informações para contato:</h2>
 
 ###
