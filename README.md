@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg"  height="40" alt="nextjsnal.svgs" height="40" alt="nextjs logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"  height="40" alt="nextjsnal.svgs" height="40" alt="nextjs logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
