@@ -5,30 +5,23 @@
 
 <img height="150" align="right" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b9525gt0fpqvp35wq16qvqt76r3gceoll1p2js0vfpe1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-###
-
-###
-
 <p align="left">Muito prazer, me chamo Luiz Vinicius!</p>
-
-###
 
 <h2 align="left">Atualmente, estou cursando o 5° período de Sistemas de Informação, onde estou focando no desenvolvimento web e back end.</h2>
 
-###
+
 <h2 align="left">Minhas redes:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizviniciusdev/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vnvinih)
-###
+
 
 <p align="left">📚 Atualmente estou estudando e focando no desenvolvimento web e back end. <br>🎯 Estou entusiasmado com as possibilidades de criar soluções inovadoras e impactantes na área da tecnologia. <br>🎲 Busco oportunidades que me permitam aplicar e aprimorar minhas habilidades em programação, contribuindo para projetos desafiadores. </p>
 
-###
 
 <h2 align="left">📧 Informações para contato:</h2>
 
-###
+
 
 <p align="left">luizviniciuslimadasilva@gmail.com
 
