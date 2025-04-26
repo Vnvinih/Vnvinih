@@ -17,6 +17,12 @@
 
 ###
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizviniciusdev/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vnvinih)
+
+
+###
+
 <p align="left">📚 Atualmente estou estudando e focando no desenvolvimento web e back end. <br>🎯 Estou entusiasmado com as possibilidades de criar soluções inovadoras e impactantes na área da tecnologia. <br>🎲 Busco oportunidades que me permitam aplicar e aprimorar minhas habilidades em programação, contribuindo para projetos desafiadores. </p>
 
 ###
