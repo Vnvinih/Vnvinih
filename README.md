@@ -7,7 +7,7 @@
 
 <p align="left">Muito prazer, me chamo Luiz Vinicius!</p>
 
-<h2 align="left">Atualmente, estou cursando o 5° período de Sistemas de Informação, onde estou focando no desenvolvimento web e back end.</h2>
+<h2 align="left">Atualmente, estou cursando o 7° período de Sistemas de Informação, onde estou focando no desenvolvimento web e back end.</h2>
 
 <div align="">
 <h2 align="left">Minhas redes:</h2>
